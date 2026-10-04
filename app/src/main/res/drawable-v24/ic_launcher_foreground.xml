@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Dumbbell centered -->
+    <path
+        android:fillColor="@color/yellow_500"
+        android:pathData="M27,45a18,18 0 0,1 18,-18h36a18,18 0 0,1 18,18v18a18,18 0 0,1 -18,18H45a18,18 0 0,1 -18,-18v-18zM45,45v18h18v-18H45zM9,54v18h18v-18H9zM81,54v18h18v-18h-18z" />
+</vector>

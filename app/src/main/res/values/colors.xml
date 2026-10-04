@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#121212</color>
+    <color name="colorPrimary">#FFD600</color>
+    <color name="colorPrimaryDark">#FFB300</color>
+    <color name="colorAccent">#FFD600</color>
+    <color name="gray_950">#121212</color>
+    <color name="yellow_500">#FFD600</color>
+    <color name="white">#FFFFFF</color>
+</resources>
